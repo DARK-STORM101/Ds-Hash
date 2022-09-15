@@ -6,6 +6,12 @@ To Install Ds-Hash Tool :
 
 2- git clone https://github.com/DARK-STORM101/Ds-Hash.git
 
+To Start Tool :
+
+Termux: python Ds-Hash.py
+
+Linux : python3 Ds-Hash.py 
+
 ############################
 
 Explanation of how to use the library and Tool Visit our
